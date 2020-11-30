@@ -1,6 +1,4 @@
-img.rounded-corners{
-    border-radius:50%;
-}
+/**************TAG SELECTORS****************/
 
 hr {
   border-style:none;
@@ -12,7 +10,7 @@ hr {
 }
 
 h1 {
-  color: #66BFBF;
+  color: blanchedalmond;
 }
 
 h2 {
@@ -23,10 +21,25 @@ body {
   background-color: #056674;
 }
 
+/********CLASS SELECTORS*********/
+
 .profile{
     background-color:green;
 }
 
-/*.brocolli{
+.rounded-corners {
+  border-radius: 50%;
+}
+
+/***********ID SELECTORS************/
+
+#heading{
+    color:#66BFBF;
+}
+/*.brocolli:hover{
     background-color: red;
+}*/
+
+/*.circular{
+    border-radius:100%;
 }*/
