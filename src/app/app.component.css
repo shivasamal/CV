@@ -1,3 +1,24 @@
 img.rounded-corners{
     border-radius:50%;
 }
+
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  height: 5px;
+  border-width: 10px;
+  border-color: grey;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+body {
+  background-color: #056674;
+}
